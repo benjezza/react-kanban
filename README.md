@@ -1,3 +1,6 @@
+# React App created following the tutorial at
+https://egghead.io/courses/beautiful-and-accessible-drag-and-drop-with-react-beautiful-dnd
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
